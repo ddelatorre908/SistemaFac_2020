@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sistema_Facturación_MVC_2020", "Sistema_Facturación_MVC_2020\Sistema_Facturación_MVC_2020.csproj", "{0C8DE2B5-A4BE-4749-BBEB-0DD661D2F848}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C8DE2B5-A4BE-4749-BBEB-0DD661D2F848}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C8DE2B5-A4BE-4749-BBEB-0DD661D2F848}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C8DE2B5-A4BE-4749-BBEB-0DD661D2F848}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C8DE2B5-A4BE-4749-BBEB-0DD661D2F848}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {185F0E91-1FEE-4347-A57D-FD51742AE015}
+	EndGlobalSection
+EndGlobal
